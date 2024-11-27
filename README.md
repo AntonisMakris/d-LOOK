@@ -6,7 +6,7 @@
 </p>
 
 
-### What is d-LOOK
+### What is d-LOOK tool
 
 d-LOOK is an automated way to execute various supervised deep learning models including:
 - VGG16
